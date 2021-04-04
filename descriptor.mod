@@ -1,0 +1,18 @@
+version="0.0.1"
+tags={
+	"Alternative History"
+	"Expansion"
+	"Gameplay"
+	"Events"
+	"Map"
+	"New Nations"
+	"Missions And Decisions"
+	"Alternative History"
+	"Fantasy"
+	"Total Conversion"
+	"Expansion"
+	"Gameplay"
+}
+name="Reunterra: A Runeterra Total Conversion Mod"
+picture="thumbnail.png"
+supported_version="1.30.*"
